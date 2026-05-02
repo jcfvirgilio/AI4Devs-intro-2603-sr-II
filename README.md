@@ -172,7 +172,7 @@ Durante el desarrollo del proyecto se utilizaron herramientas de inteligencia ar
   - Apoyo en validaciones (ej. VIN)
   - Generación y mejora de prompts
 
-- GitHub Spec Kit
+- OpenSpec
   - Definición estructurada de requerimientos
   - Generación inicial de historias de usuario
   - Apoyo en diseño de arquitectura
