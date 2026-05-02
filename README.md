@@ -54,6 +54,34 @@ El sistema está diseñado como un MVP enfocado en un flujo completo (E2E), prio
 - Validación de VIN (regex)
 - Búsqueda simple de servicios
 
+## 📖 Historias de Usuario
+
+### 🟢 HU1 — Registro de check-in de vehículo
+
+Como recepcionista de taller, quiero registrar la entrada de un vehículo con datos del cliente para llevar control del servicio.
+
+### 🟢 HU2 — Captura automática de datos del vehículo
+
+Como recepcionista, quiero usar OCR para leer VIN y placas desde imágenes para evitar errores de captura manual.
+
+### 🟢 HU3 — Validación manual de datos
+
+Como usuario del sistema, quiero poder corregir datos detectados por OCR para asegurar la precisión de la información.
+
+### 🟢 HU4 — Generación de cotización
+
+Como administrador del taller, quiero generar una cotización con IVA calculado automáticamente para enviarla al cliente.
+
+### 🟢 HU5 — Generación de PDF
+
+Como recepcionista, quiero generar un PDF profesional de la cotización para compartirlo con el cliente.
+
+---
+
+### 🟡 HU6 — Consulta de historial (Should Have)
+
+Como usuario, quiero consultar registros anteriores de vehículos para dar seguimiento a servicios previos.
+
 ---
 
 ## 👤 Usuarios
