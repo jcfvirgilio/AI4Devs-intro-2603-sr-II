@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="32" viewBox="0 0 160 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 2C6 2 2 6 2 12C2 18 6 22 12 22C18 22 22 18 22 12C22 6 18 2 12 2ZM12 20C8 20 5 17 5 12C5 7 8 4 12 4C16 4 19 7 19 12C19 17 16 20 12 20Z" fill="#06B6D4"/>
+  <path d="M30 2H40V30H30V2Z" fill="#06B6D4"/>
+  <path d="M48 2H58V30H48V2Z" fill="#06B6D4"/>
+  <path d="M66 2H76V30H66V2Z" fill="#06B6D4"/>
+  <path d="M84 2H94V30H84V2Z" fill="#06B6D4"/>
+  <path d="M102 2H112V30H102V2Z" fill="#06B6D4"/>
+  <path d="M120 2H130V30H120V2Z" fill="#06B6D4"/>
+  <path d="M138 2H148V30H138V2Z" fill="#06B6D4"/>
+  <text x="12" y="20" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#F8FAFC">AutoFlow AI</text>
+</svg>
