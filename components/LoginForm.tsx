@@ -1,8 +1,11 @@
 "use client";
 
 import { useState } from "react";
+<<<<<<< HEAD
 import Image from "next/image";
 import logo from "@/public/logo-autoflow-ai.svg";
+=======
+>>>>>>> 75dfa7d92c43fbb4686dcbbaf8abdd35b4560629
 
 const mockValidEmails = ["user@example.com", "test@test.com"];
 const mockValidPassword = "password123";
@@ -43,6 +46,7 @@ export default function LoginForm() {
 
   return (
     <div className="w-full max-w-md mx-auto p-8 bg-white rounded-lg shadow-md">
+<<<<<<< HEAD
       {/* Logo AutoFlow AI - a la izquierda del texto */}
       <div className="text-center mb-8 flex items-center justify-center gap-3">
         <Image
@@ -52,6 +56,11 @@ export default function LoginForm() {
           height={32}
         />
         <h1 className="text-2xl font-bold text-gray-800 dark:text-white">AutoFlow AI</h1>
+=======
+      {/* Logo AutoFlow AI */}
+      <div className="text-center mb-8">
+        <h1 className="text-2xl font-bold text-gray-800">AutoFlow AI</h1>
+>>>>>>> 75dfa7d92c43fbb4686dcbbaf8abdd35b4560629
       </div>
 
       {/* Formulario de login */}
